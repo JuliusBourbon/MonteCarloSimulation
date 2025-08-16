@@ -1,0 +1,9 @@
+IF-3
+Kelompok 1
+Anggota:
+1. Raihan Fathir Muhammad - 10123090
+2. Alghifari Raspati - 10123091
+3. Muhammad Favian Jiwani - 10123115
+
+Website Streamlit dapat dilihat melalui link:
+https://kelompok1-if3-montecarlo-covid.streamlit.app/
